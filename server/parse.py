@@ -16,8 +16,8 @@ def find(string, stoplist, page):
 			break
 	return res.strip()
 
-doc = fitz.open("DegreeWorks.pdf")
-# doc = fitz.open(sys.argv[1]) # open a document
+# doc = fitz.open("DegreeWorks.pdf")
+doc = fitz.open(sys.argv[1]) # open a document
 out = open("output.txt", "wb") # create a text output
 
 for page in doc: # iterate the document pages
