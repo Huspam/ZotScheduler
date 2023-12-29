@@ -1,0 +1,493 @@
+Ellucian University
+SOLACHUDDIN, HUSAM ASYRAF - *****604
+Ellucian University
+Student name
+SOLACHUDDIN, HUSAM ASYRAF
+Student ID
+*****604
+Degree
+B.S.
+Audit date
+12/22/2023  3:49 PM
+Degree progress
+Overall GPA
+3.696
+ 
+ 
+Level Undergraduate   Classification 04 Senior SR   Major Computer Science   Program a normal student   College Information & Computer
+Science   Specialization Intelligent Systems   
+ 
+B.S. Degree
+INCOMPLETE
+Credits required: 180
+Credits applied:  176
+Catalog year:  2021-2022
+Unmet conditions for this set of requirements:
+180 units are required to graduate.  You still need 4 units.
+36 of final 45 units must be earned in residence. *** Repeat courses that are in-progress (IP) may be temporarily applied twice on a requirement/unit count and
+will be corrected when the IP courses are assigned grades. *** Your audit may not have an accurate GPA/unit count if you have more than 16 units of repeat
+courses. Verify GPA/unit count with your academic advisor in the school of your major.
+University Requirements
+General Education Requirements
+Requirements for one major
+Still needed:
+See Major in Computer Science section
+ 
+Blocks included in this block
+University Requirements
+General Education Requirements
+Major in Computer Science
+CS:Specialization in Intelligent Systems
+ 
+University Requirements
+COMPLETE
+Catalog year:  2021-2022
+Entry Level Writing satisfied
+American History & Institutions satisfied
+ 
+General Education Requirements
+COMPLETE
+Catalog year:  2021-2022
+Course
+Title
+Grade
+Credits Term
+I. Lower-Division Writing (minimum grade C)
+Ellucian University
+SOLACHUDDIN, HUSAM ASYRAF - *****604
+2 courses Humanities Core
+Human 1AS or 1BS
+HUMAN H1AS
+HUM CORE WRT HONORS
+A- 
+4
+2021 FALL
+Human 1CS
+HUMAN H1CS
+HUM CORE WRT HONORS
+B+ 
+4
+2022 SPRING
+I. Upper-Division Writing (minimum grade C)
+I&CSCI 139W
+CRITICAL WRITING
+A 
+4
+2022 FALL
+II. Science and Technology
+3 courses category II
+BME 3
+TREATING DIABETES
+A 
+4
+2023 WINTER
+I&CSCI 33
+INTERMEDIATE PRGRMG
+A 
+4
+2022 WINTER
+I&CSCI 51
+INTRO COMPUTER ORG
+A 
+6
+2023 WINTER
+III. Social and Behavioral Sciences
+3 courses category III
+GDIM 41
+GAMES AND SOCIETY
+A+ 
+4
+2023 SPRING
+PSYCH 7A
+INTRO TO PSYCHOLOGY
+A 
+4
+2023 FALL
+BRGOVU 1
+AP - POL SCI 21A
+T 
+0
+Satisfied by:
+U.S. Gov and Pol AP
+IV. Arts and Humanities
+3 courses category IV
+BRENG28 1
+GEN ED IV LITERATURE
+T 
+0
+Satisfied by:
+Eng LangCmp AP Exam
+HUMAN 1A
+HUMANITIES CORE LEC
+A 
+4
+2021 FALL
+HUMAN 1B
+HUMANITIES CORE LEC
+A- 
+4
+2022 WINTER
+V. Quantitative, Symbolic & Computat'l Reasoning
+Category V (1 course Va + 2 course Vb)
+Va. Quantitative Literacy
+STATS 67
+INTRO PROB&STAT/CS
+A+ 
+4
+2023 WINTER
+Vb. Formal Reasoning
+I&CSCI 6B
+BOOL LOG & DISC STR
+A- 
+4
+2022 SPRING
+I&CSCI 6D
+DISCRET MATH FOR CS
+A 
+4
+2022 FALL
+VI. Language Satisfied by 4 years H.S. study
+VII. Multicultural Studies
+Completion of Humanities Core series
+HUMAN 1A
+HUMANITIES CORE LEC
+A 
+4
+2021 FALL
+HUMAN 1B
+HUMANITIES CORE LEC
+A- 
+4
+2022 WINTER
+HUMAN 1C
+HUMANITIES CORE LEC
+B+ 
+4
+2022 SPRING
+HUMAN H1AS
+HUM CORE WRT HONORS
+A- 
+4
+2021 FALL
+HUMAN H1BS
+HUM CORE WRT HONORS
+B+ 
+4
+2022 WINTER
+HUMAN H1CS
+HUM CORE WRT HONORS
+B+ 
+4
+2022 SPRING
+VIII. Int'l/Global Issues credit 4 yrs H.S. Lang
+ 
+Ellucian University
+SOLACHUDDIN, HUSAM ASYRAF - *****604
+Major in Computer Science
+INCOMPLETE
+Catalog year:  2021-2022
+A minimum GPA of at least 2.0 is required in the upper-division  ICS courses required by the major.  *** Check your catalogue for course prerequisites.  *** If
+you have satisfied a course prerequisite by AP  exam or with a non-UCI course, you must visit the ICS  Student Affairs Office to be cleared for enrollment.
+Course
+Title
+Grade
+Credits Term
+Select I&CSCI 31-32-33 or I&CSCI 32A-33
+I&CSCI 32A, 33
+I&CSCI 32A
+PYTHN PGMG LIBR/ACC
+A- 
+4
+2021 FALL
+I&CSCI 33
+INTERMEDIATE PRGRMG
+A 
+4
+2022 WINTER
+I&CSci 45C
+I&CSCI 45C
+PROGRAM IN C/C++
+A 
+4
+2022 SPRING
+I&CSci 46
+I&CSCI 46
+DATA STRC IMPL&ANLS
+B+ 
+4
+2022 FALL
+I&CSci 51
+I&CSCI 51
+INTRO COMPUTER ORG
+A 
+6
+2023 WINTER
+I&CSci 53
+I&CSCI 53
+PRINCP IN SYS DESGN
+B 
+6
+2023 SPRING
+I&CSci 53L
+ 
+Exception by: RAWAL, NEHA B   On: 06/28/2022   Force Complete:  ICS 53L no longer required
+In4matx 43
+IN4MATX 43
+INTRO SOFTWARE ENGR
+A- 
+4
+2022 FALL
+Math 2A
+MATH 2A
+CALCULUS
+T 
+0
+Satisfied by:
+Calculus AP Exam AB
+Math 2B
+MATH 2B
+CALCULUS
+B+ 
+4
+2021 FALL
+I&CSci 6B
+I&CSCI 6B
+BOOL LOG & DISC STR
+A- 
+4
+2022 SPRING
+I&CSci 6D
+I&CSCI 6D
+DISCRET MATH FOR CS
+A 
+4
+2022 FALL
+I&CSci 6N or Math 3A
+MATH 3A
+INTRO LINEAR ALGBRA
+B+ 
+4
+2022 WINTER
+Stats 67
+STATS 67
+INTRO PROB&STAT/CS
+A+ 
+4
+2023 WINTER
+2 Cat II GE courses (no
+CSE,ECON,ENGR,I&CSCI,MATH)
+BME 3
+TREATING DIABETES
+A 
+4
+2023 WINTER
+Still needed:
+1 Class in ARTHIS 55 or BIOSCI 1A or 6 or 9A or 9B or 9D or 9E or 9G or 9J or
+9K or 10 or 12 or 17 or 23 or 35 or 36 or 37 or 38 or 41 or 43 or 44 or 45 or 47 or
+55 or 56 or 75 or H90 or 93 or H93 or 94 or N118 or CHEM 1A or 1B or 1C or H2A
+or H2B or H2C or M2A or M2B or M2C or M3C or 12 or 14 or H90 or DANCE 3 or
+EARTHSS 1 or 3 or 5 or 7 or 15 or 17 or 19 or 21 or 23 or 27 or H30B or 40A or
+40B or 40C or HISTORY 60 or IN4MATX 12 or LPS 29 or 31 or 40 or 60 or H80
+or H81 or H91 or H123 or MEDHUM 3 or PHILOS 3 or 29 or 31 or PHRMSCI H80
+or PHYSICS 3A or 3B or 3C or 7C or 7D or 7E or 12 or 14 or 15 or 17 or 18 or 19
+or 20A or 20B or 20D or 20E or 21 or H80 or H90 or PSYCH 122P or PUBHLTH 2
+or 30 or 60 or 80 or 90 or SOCSCI 11A
+CompSci 161
+COMPSCI 161
+DES&ANALYS OF ALGOR
+B 
+4
+2023 WINTER
+I&CSci 139W
+I&CSCI 139W
+CRITICAL WRITING
+A 
+4
+2022 FALL
+Ellucian University
+SOLACHUDDIN, HUSAM ASYRAF - *****604
+ 
+11 upper-div electives are a combination of specialization courses, project courses, and any other
+additional electives. 
+11 Upper-Div Electives
+COMPSCI 121
+INFRMTION RETRIEVAL
+IP 
+(4)
+2024 WINTER
+COMPSCI 143A PRNCPLS OPERTNG SYS
+A+ 
+4
+2023 FALL
+COMPSCI 163
+GRAPH ALGORITHMS
+IP 
+(4)
+2024 WINTER
+COMPSCI 171
+INTRO ARTIFCL INTEL
+A 
+4
+2023 SPRING
+COMPSCI 175
+PROJECT IN AI
+IP 
+(4)
+2024 WINTER
+COMPSCI 178
+MACHINE/DATA MINING
+A 
+4
+2023 FALL
+Still needed:
+5 Classes in COMPSCI 103 or 111:121 or 122@ or 125:141 or 142@ or 143@ or
+145 or 146:160 or 162:183 or 172@ or 175:183 or 184@ or 189 or I&CSCI 161 or
+162 or IN4MATX 102 or 113 or 115 or 117 or 121 or 122 or 124 or 131 or 133 or 134
+2 Project Courses
+COMPSCI 175
+PROJECT IN AI
+IP 
+(4)
+2024 WINTER
+Still needed:
+1 Class in COMPSCI 113 or 114 or 117 or 122B or 122C or 122D or 125 or 133 or
+142B or 143B or 145 or 147 or 153 or 154 or 165 or IN4MATX 117 or 134
+Intelligent Systems
+Still needed:
+See CS:Specialization in Intelligent Systems section
+ 
+Blocks included in this block
+CS:Specialization in Intelligent Systems
+ 
+CS:Specialization in Intelligent Systems
+INCOMPLETE
+Catalog year:  2021-2022
+Course
+Title
+Grade
+Credits Term
+CompSci 171
+COMPSCI 171
+INTRO ARTIFCL INTEL
+A 
+4
+2023 SPRING
+CompSci 175
+COMPSCI 175
+PROJECT IN AI
+IP 
+(4)
+2024 WINTER
+CompSci 178
+COMPSCI 178
+MACHINE/DATA MINING
+A 
+4
+2023 FALL
+3 Courses from list.
+COMPSCI 121
+INFRMTION RETRIEVAL
+IP 
+(4)
+2024 WINTER
+COMPSCI 163
+GRAPH ALGORITHMS
+IP 
+(4)
+2024 WINTER
+Still needed:
+1 Class in COMPSCI 116 or 125 or 162 or 164 or 169 or 177 or 179
+ 
+Fall Through
+Credits applied: 56
+Classes applied: 5
+Course
+Title
+Grade
+Credits
+Term
+BRWR39B 2
+WRITING 39B
+T 
+0
+Satisfied by:
+Eng LangCmp AP Exam
+FRENCH 1A
+AP - FUNDAMENTALS
+T 
+0
+Satisfied by:
+French Lang AP Exam
+FRENCH 1B
+AP - FUNDAMENTALS
+T 
+0
+Satisfied by:
+French Lang AP Exam
+FRENCH 1C
+AP - FUNDAMENTALS
+T 
+0
+Satisfied by:
+French Lang AP Exam
+TRANSFER CREDIT
+TOTAL AP AND NON-UC CREDIT
+ 
+56
+2021 FALL
+ 
+Ellucian University
+SOLACHUDDIN, HUSAM ASYRAF - *****604
+In-progress
+Credits applied: 12
+Classes applied: 3
+Course
+Title
+Grade
+Credits
+Term
+COMPSCI 121
+INFRMTION RETRIEVAL
+IP 
+(4)
+2024 WINTER
+COMPSCI 163
+GRAPH ALGORITHMS
+IP 
+(4)
+2024 WINTER
+COMPSCI 175
+PROJECT IN AI
+IP 
+(4)
+2024 WINTER
+ 
+Exceptions
+Type
+Description
+Created on
+Created by
+Block
+Enforced
+Force Complete
+ICS 53L no longer required
+06/28/2022
+RAWAL, NEHA B
+Major in Computer Science
+Yes
+ 
+Legend
+Complete
+Not complete
+Complete (with classes in-progress)
+Nearly complete - see advisor
+@
+Any course number
+Disclaimer
+You are encouraged to use this degree audit report as a guide when planning your progress toward completion of the above requirements. Your academic advisor or the Registrar's Office may be contacted for
+assistance in interpreting this report. This audit is not your academic transcript and it is not official notification of completion of degree or certificate requirements. Please contact the Registrar's Office regarding
+this degree audit report, your official degree/certificate completion status, or to obtain a copy of your academic transcript.
+ 
+ 
+Ellucian Degree Works - Copyright 1995-2022 Ellucian Company L.P. and its affiliates
+
