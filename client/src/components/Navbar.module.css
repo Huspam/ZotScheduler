@@ -1,0 +1,31 @@
+.navbar {
+	display: flex;
+	background-color: #0077b6;
+  	height: 48px;
+	border-bottom: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+.navbar .leftWrapper, .rightWrapper{
+	display: inline-flex;
+  	align-items: center;
+	height: 48px;
+	padding: 15px;
+}
+
+.navbar .rightWrapper{
+	margin-left: auto;
+	white-space: nowrap;
+}
+
+.navbar h1{
+	font-family: 'Rocher';
+} 
+
+.navbar .aqua{
+	font-palette: --Aqua;
+}
+
+.navbar button{
+    --button-bg: #0077b6;
+	--button-hover: #0069a1;
+}

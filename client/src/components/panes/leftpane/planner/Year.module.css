@@ -1,0 +1,8 @@
+.year {
+  background-color: light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-5));
+  border-style: groove;
+  border-radius: 15px;
+  border-color: #9fb8c53f;
+  padding: 10px;
+  box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+}

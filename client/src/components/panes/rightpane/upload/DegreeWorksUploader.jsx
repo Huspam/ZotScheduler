@@ -2,11 +2,51 @@ import { useRef } from 'react';
 import { Text, Group, Button, rem, useMantineTheme } from '@mantine/core';
 import { Dropzone, MIME_TYPES } from '@mantine/dropzone';
 import { IconCloudUpload, IconX, IconDownload } from '@tabler/icons-react';
+import { useStudentContext } from '../../../../contexts/StudentContext';
 import classes from './DegreeWorksUploader.module.css';
 
-const DegreeWorksUploader = ({handleUpload }) => {
+function DegreeWorksUploader() {
+  const { setStudentProfile, setStudentClasses, setParsingStatus } = useStudentContext();
+
   const theme = useMantineTheme();
   const openRef = useRef(null);
+
+  const handleUpload = async (file) => {
+    setParsingStatus("parsing");
+
+    const formData = new FormData();
+    formData.append("file", file);
+
+    try {
+      fetch("/api/parse", {
+        method: "POST",
+        body: formData,
+      }).then(
+        response => response.json()
+      ).then(
+        data => {
+          console.log(data);
+          setStudentProfile({
+            name: data["name"],
+            major: data["major"],
+            specialization: data["specialization"],
+            gpa: data["gpa"]
+          });
+          setStudentClasses({
+            taken: data["classes_taken"],
+            takenByDept: data["classes_taken_by_dept"],
+            needed: data["classes_needed"],
+            neededByDept: data["classes_needed_by_dept"],
+            eligible: data["classes_eligible"]
+          });
+          setParsingStatus("success");
+        }
+      );
+    } catch (error) {
+      console.error(error);
+      setParsingStatus("fail");
+    }
+  };
 
   return (
     <>

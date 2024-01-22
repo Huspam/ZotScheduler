@@ -1,0 +1,7 @@
+.title {
+    height: rem(30);
+}
+
+.label {
+    min-width: 100px;
+}

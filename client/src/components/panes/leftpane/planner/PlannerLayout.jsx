@@ -1,9 +1,13 @@
-import { Grid, Container } from '@mantine/core';
+import { Grid } from '@mantine/core';
 import Year from './Year';
+import { useStudentContext } from '../../../../contexts/StudentContext';
+import classes from '../../PaneContentLayout.module.css';
 
-function LeftPane({ studentClassesTaken }) {
+function PlannerLayout() {
+  const { studentClasses } = useStudentContext();
+
   const renderYears = () => {
-    if (Object.keys(studentClassesTaken).length === 0) {
+    if (Object.keys(studentClasses["taken"]).length === 0) {
       return (
         <>
           <Grid.Col>
@@ -21,23 +25,21 @@ function LeftPane({ studentClassesTaken }) {
         </>
       );
     } else {
-      return Object.keys(studentClassesTaken).map((year) => (
+      return Object.keys(studentClasses["taken"]).map((year) => (
         <Grid.Col key={year}>
-          <Year yearName={year} yearData={studentClassesTaken[year]} />
+          <Year yearName={year} yearData={studentClasses["taken"][year]} />
         </Grid.Col>
       ));
     }
   };
-
+  
   return (
-    <div className="pane">
-      <Container>
-        <Grid gutter="lg">
+    <div className={classes.layout}>
+      <Grid gutter="lg">
           {renderYears()}
-        </Grid>
-      </Container>
+      </Grid>
     </div>
   );
 }
-
-export default LeftPane;
+  
+export default PlannerLayout;  
